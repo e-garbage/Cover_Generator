@@ -6,6 +6,14 @@ from PIL import Image, ImageDraw
 import datetime
 from pathlib import Path
 
+##############################
+# This code is a remix of    #
+# Github user qroph's        #
+# ordered-dithering project  #
+# and Github user kosachevds'#
+# Invader-generator project. #
+##############################
+
 BACKGROUND_COLOR = (32,22,22)
 BACKGROUND_DETAIL= (50,50,50)
 
